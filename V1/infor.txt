@@ -1,0 +1,3 @@
+esta é a primeira versão do DispInfor, o arquivo ficará em uma pasta compactada em .ZIP
+o arquivo sempre estará disponivel, todas as atualizações precisa ficar neste mesmo formato
+em uma pasta .ZIP
