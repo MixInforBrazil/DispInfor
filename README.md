@@ -1,2 +1,2 @@
-Welcome to Gamelles forums, here we don't stay against anyone, whatever
-Create whatever you want here, just can't be +18
+ainda não tem nada por aqui...
+estou na criação do sistema DispInfor, na versão v1-001.V1
